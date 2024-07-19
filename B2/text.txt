@@ -1,0 +1,15 @@
+Biến là một trong những khái niệm cơ bản nhất trong lập trình, và trong Java, biến được sử dụng để lưu trữ dữ liệu mà chương trình có thể thao tác.
+
+CÁC KIỂU DỮ LIỆU TRONG JAVA
+Java hỗ trợ các kiểu dữ liệu nguyên thủy và các kiểu dữ liệu đối tượng. Dưới đây là một số kiểu dữ liệu cơ bản:
+Kiểu nguyên thủy: int, long, short, byte, float, double, char, boolean.
+Kiểu đối tượng: Các kiểu dữ liệu tham chiếu như String, Array, và các đối tượng do người dùng định nghĩa.
+
+Toán tử toán học
+Trong Java, toán tử toán học được sử dụng để thực hiện các phép toán số học trên các biến và giá trị. Các toán tử toán học cơ bản bao gồm cộng, trừ, nhân, chia, và phép lấy dư. Dưới đây là các toán tử toán học cơ bản và cách sử dụng chúng:
+Các toán tử toán học cơ bản
+    Cộng (+): Sử dụng để cộng hai giá trị với nhau.
+    Trừ (-): Sử dụng để trừ giá trị thứ hai khỏi giá trị thứ nhất.
+    Nhân (*): Sử dụng để nhân hai giá trị với nhau.
+    Chia (/): Sử dụng để chia giá trị thứ nhất cho giá trị thứ hai.
+    Lấy dư (%): Sử dụng để lấy phần dư của phép chia
