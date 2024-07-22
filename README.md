@@ -9,29 +9,29 @@ https://docs.google.com/document/d/1ePEnWMs3XvP13yemMJB1r4QsIbsyfH2hBzyuT83mvoI/
 # Mục lục:
 
 # [Buổi](Buổi)
-|
+\
 ### [Buổi 1](/Buổi/buổi%201/)
-
+\\
 #### [Giới thiệu khoá học](/Buổi/buổi%201/Task1/)
-
+\\
 #### [Giới thiệu về 3 Skills và 4 Pillars giải quyết vấn đề](/Buổi/buổi%201/Task2/)
-
+||
 #### [Giới thiệu về Java](/Buổi/buổi%201/Task3/)
-
+|
 ### [Buổi 2](/Buổi/buổi%202/)
-
+||
 #### [Cơ bản về lập trình](/Buổi/buổi%202/Task1/)
-
+|||
 #### [Giới thiệu các cú pháp Java cơ bản.](/Buổi/buổi%202/Task2/)
-
+|||
 #### [Biến và kiểu dữ liệu](/Buổi/buổi%202/Task3/)
-
+|||
 #### [Toán tử toán học](/Buổi/buổi%202/Task4/)
-
+|||
 ### [Buổi 3](/Buổi/buổi%203/)
-
+||
 #### [Cấu trúc điều khiển](/Buổi/buổi%203/Task1/)
-
+|||
 #### [Toán tử so sánh, Logic](/Buổi/buổi%203/Task2/)
 
 #### [Câu lệnh điều khiển (if, else if, else, switch)](/Buổi/buổi%203/Task3/)
