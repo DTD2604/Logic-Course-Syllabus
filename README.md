@@ -11,7 +11,7 @@ https://docs.google.com/document/d/1ePEnWMs3XvP13yemMJB1r4QsIbsyfH2hBzyuT83mvoI/
 
 ### [Buổi 1](/Buổi/buổi%201/)
 
-#### [Giới thiệu khoá học](/Buổi/buổi%201/task1/)
+#### [Giới thiệu khoá học](/Buổi/buổi%201/Task1/)
 
 #### [Giới thiệu về 3 Skills và 4 Pillars giải quyết vấn đề](/Buổi/buổi%201/Task2/)
 
