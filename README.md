@@ -7,7 +7,7 @@ https://docs.google.com/document/d/1ePEnWMs3XvP13yemMJB1r4QsIbsyfH2hBzyuT83mvoI/
 ## Nguyen Duy Khanh
 
 # Mục lục:
-## [Buổi](buổi)
+## [Buổi](Buổi)
 
 ### [Buổi 1](/Buổi/buổi%201/)
 
