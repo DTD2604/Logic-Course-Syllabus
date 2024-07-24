@@ -5,137 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c6ec0cc-6f92-4fa0-adab-1e0a7242931a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson/B4/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson/B6/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson/B7/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson/B8/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B10/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B10/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B10/Task1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B10/Task1/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B11/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B11/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B11/Task1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B11/Task1/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B11/Task2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B14/Task1/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B11/Task3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B16/Task1/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B11/Task4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/Task1/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B14/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B14/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B14/Task1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/Task2/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B16/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B16/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B16/Task1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/Task3/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B2/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B2/README.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B2/Task1/Helloworld.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B2/Task1/Helloworld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B2/Task1/Integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B2/Task1/Integer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B2/Task1/Odd_even_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B2/Task1/Odd_even_number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B2/Task1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B2/Task1/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B2/Task2/EmployeeSalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B2/Task2/EmployeeSalary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B2/Task2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B2/Task2/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B2/Task2/SumOfProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B2/Task2/SumOfProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B2/Task2/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B2/Task2/Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B2/Task3/Mathematical_operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B2/Task3/Mathematical_operators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B2/Task3/Mathematical_operators1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B2/Task3/Mathematical_operators1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B2/Task3/Mathematical_operators2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B2/Task3/Mathematical_operators2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B2/Task3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B2/Task3/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B3/Task1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B4/Task1/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B3/Task2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B4/Task2/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B3/Task2/b1.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B3/Task2/b2.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B3/Task2/b3.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B3/Task2/b4.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B3/Task3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B6/Task1/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B3/Task4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B7/Task1/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/Task2/b1.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B4/Task1/CauDieuKien/problem/b1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/Task3/CauDieuKien/problem/b1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B4/Task1/CauDieuKien/problem/b2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/Task3/CauDieuKien/problem/b2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B4/Task1/CauDieuKien/problem/b3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/Task3/CauDieuKien/problem/b3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B4/Task1/CauDieuKien/problem/b4.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/Task3/CauDieuKien/problem/b4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B4/Task1/CauDieuKien/problem/b5.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/Task3/CauDieuKien/problem/b5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B4/Task1/CauDieuKien/solution/b1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/Task3/CauDieuKien/solution/b1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B4/Task1/CauDieuKien/solution/b2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/Task3/CauDieuKien/solution/b2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B4/Task1/CauDieuKien/solution/b3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/Task3/CauDieuKien/solution/b3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B4/Task1/CauDieuKien/solution/b4.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/Task3/CauDieuKien/solution/b4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B4/Task1/CauDieuKien/solution/b5.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/Task3/CauDieuKien/solution/b5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B4/Task1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B8/Task1/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B4/Task2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B8/Task2/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B4/Task3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B8/Task3/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B4/Task4/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B6/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/Task2/b2.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B6/Task1/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B7/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/Task2/b3.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B7/Task1/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B8/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/Task2/b4.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B8/Task1/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B8/Task2/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/B8/Task3/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 3/Task2/ToanTu/problem/b1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/Task2/ToanTu/problem/b1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 3/Task2/ToanTu/problem/b2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/Task2/ToanTu/problem/b2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 3/Task2/ToanTu/problem/b3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/Task2/ToanTu/problem/b3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 3/Task2/ToanTu/problem/b4.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/Task2/ToanTu/problem/b4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 3/Task2/ToanTu/problem/b5.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/Task2/ToanTu/problem/b5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 3/Task2/ToanTu/solution/b1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/Task2/ToanTu/solution/b1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 3/Task2/ToanTu/solution/b2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/Task2/ToanTu/solution/b2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 3/Task2/ToanTu/solution/b3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/Task2/ToanTu/solution/b3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 3/Task2/ToanTu/solution/b4.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/Task2/ToanTu/solution/b4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 3/Task2/ToanTu/solution/b5.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/Task2/ToanTu/solution/b5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 3/Task3/CauDieuKien/problem/b1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B4/Task1/CauDieuKien/problem/b1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 3/Task3/CauDieuKien/problem/b2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B4/Task1/CauDieuKien/problem/b2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 3/Task3/CauDieuKien/problem/b3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B4/Task1/CauDieuKien/problem/b3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 3/Task3/CauDieuKien/problem/b4.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B4/Task1/CauDieuKien/problem/b4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 3/Task3/CauDieuKien/problem/b5.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B4/Task1/CauDieuKien/problem/b5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 3/Task3/CauDieuKien/solution/b1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B4/Task1/CauDieuKien/solution/b1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 3/Task3/CauDieuKien/solution/b2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B4/Task1/CauDieuKien/solution/b2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 3/Task3/CauDieuKien/solution/b3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B4/Task1/CauDieuKien/solution/b3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 3/Task3/CauDieuKien/solution/b4.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B4/Task1/CauDieuKien/solution/b4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 3/Task3/CauDieuKien/solution/b5.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B4/Task1/CauDieuKien/solution/b5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 3/buổi 3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B3/B3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 4/Task1/VongLap/problem/b1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B4/Task2/VongLap/problem/b1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 4/Task1/VongLap/problem/b2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B4/Task2/VongLap/problem/b2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 4/Task1/VongLap/problem/b3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B4/Task2/VongLap/problem/b3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 4/Task1/VongLap/problem/b4.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B4/Task2/VongLap/problem/b4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 4/Task1/VongLap/problem/b5.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B4/Task2/VongLap/problem/b5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 4/Task1/VongLap/solution/b1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B4/Task2/VongLap/solution/b1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 4/Task1/VongLap/solution/b2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B4/Task2/VongLap/solution/b2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 4/Task1/VongLap/solution/b3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B4/Task2/VongLap/solution/b3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 4/Task1/VongLap/solution/b4.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B4/Task2/VongLap/solution/b4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 4/Task1/VongLap/solution/b5.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B4/Task2/VongLap/solution/b5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 4/buổi 4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B4/B4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 6/Task1/Mang/problem/b1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B6/Task1/Mang/problem/b1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 6/Task1/Mang/problem/b2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B6/Task1/Mang/problem/b2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 6/Task1/Mang/problem/b3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B6/Task1/Mang/problem/b3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 6/Task1/Mang/problem/b4.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B6/Task1/Mang/problem/b4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 6/Task1/Mang/problem/b5.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B6/Task1/Mang/problem/b5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 6/Task1/Mang/solution/b1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B6/Task1/Mang/solution/b1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 6/Task1/Mang/solution/b2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B6/Task1/Mang/solution/b2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 6/Task1/Mang/solution/b3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B6/Task1/Mang/solution/b3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 6/Task1/Mang/solution/b4.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B6/Task1/Mang/solution/b4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 6/Task1/Mang/solution/b5.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B6/Task1/Mang/solution/b5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 6/Task2/Khai_bao_va_Khoi_tao_mang/Bai_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B6/Task2/Khai_bao_va_Khoi_tao_mang/Bai_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 6/Task2/Khai_bao_va_Khoi_tao_mang/Bai_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B6/Task2/Khai_bao_va_Khoi_tao_mang/Bai_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 6/Task2/Khai_bao_va_Khoi_tao_mang/Bai_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B6/Task2/Khai_bao_va_Khoi_tao_mang/Bai_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 6/Task2/Khai_bao_va_Khoi_tao_mang/Bai_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B6/Task2/Khai_bao_va_Khoi_tao_mang/Bai_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 6/Task2/Khai_bao_va_Khoi_tao_mang/Bai_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B6/Task2/Khai_bao_va_Khoi_tao_mang/Bai_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 6/Task2/Khai_bao_va_Khoi_tao_mang/Bai_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B6/Task2/Khai_bao_va_Khoi_tao_mang/Bai_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 6/Task2/Khai_bao_va_Khoi_tao_mang/Bai_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B6/Task2/Khai_bao_va_Khoi_tao_mang/Bai_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 6/Task2/Khai_bao_va_Khoi_tao_mang/Bai_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B6/Task2/Khai_bao_va_Khoi_tao_mang/Bai_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 6/Task2/Khai_bao_va_Khoi_tao_mang/Bai_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B6/Task2/Khai_bao_va_Khoi_tao_mang/Bai_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 6/Task2/Khai_bao_va_Khoi_tao_mang/Bai_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B6/Task2/Khai_bao_va_Khoi_tao_mang/Bai_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 6/buổi 6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B6/B6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 7/Task1/Chuoi_va_Thao_tac_chuoi/Bai_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B7/Task1/Chuoi_va_Thao_tac_chuoi/Bai_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 7/Task1/Chuoi_va_Thao_tac_chuoi/Bai_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B7/Task1/Chuoi_va_Thao_tac_chuoi/Bai_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 7/Task1/Chuoi_va_Thao_tac_chuoi/Bai_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B7/Task1/Chuoi_va_Thao_tac_chuoi/Bai_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 7/Task1/Chuoi_va_Thao_tac_chuoi/Bai_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B7/Task1/Chuoi_va_Thao_tac_chuoi/Bai_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 7/Task1/Chuoi_va_Thao_tac_chuoi/Bai_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B7/Task1/Chuoi_va_Thao_tac_chuoi/Bai_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 7/Task1/Chuoi_va_Thao_tac_chuoi/Bai_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B7/Task1/Chuoi_va_Thao_tac_chuoi/Bai_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 7/Task1/Chuoi_va_Thao_tac_chuoi/Bai_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B7/Task1/Chuoi_va_Thao_tac_chuoi/Bai_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 7/Task1/Chuoi_va_Thao_tac_chuoi/Bai_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B7/Task1/Chuoi_va_Thao_tac_chuoi/Bai_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 7/Task1/Chuoi_va_Thao_tac_chuoi/Bai_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B7/Task1/Chuoi_va_Thao_tac_chuoi/Bai_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 7/Task1/Chuoi_va_Thao_tac_chuoi/Bai_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B7/Task1/Chuoi_va_Thao_tac_chuoi/Bai_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 8/Task1/Ham/Bai_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B8/Task1/Task1/Ham/Bai_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 8/Task1/Ham/Bai_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B8/Task1/Task1/Ham/Bai_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 8/Task1/Ham/Bai_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B8/Task1/Task1/Ham/Bai_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 8/Task1/Ham/Bai_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B8/Task1/Task1/Ham/Bai_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buổi/buổi 8/Task1/Ham/Bai_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/B8/Task1/Task1/Ham/Bai_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1721792823807</updated>
       <workItem from="1721792824863" duration="1632000" />
-      <workItem from="1721806100458" duration="1144000" />
+      <workItem from="1721806100458" duration="2616000" />
     </task>
     <servers />
   </component>
