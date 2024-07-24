@@ -3,9 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Logic-Course-Syllabus.iml" filepath="$PROJECT_DIR$/.idea/Logic-Course-Syllabus.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Buổi/buổi 3/buổi 3.iml" filepath="$PROJECT_DIR$/Buổi/buổi 3/buổi 3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Buổi/buổi 4/buổi 4.iml" filepath="$PROJECT_DIR$/Buổi/buổi 4/buổi 4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Buổi/buổi 6/buổi 6.iml" filepath="$PROJECT_DIR$/Buổi/buổi 6/buổi 6.iml" />
     </modules>
   </component>
 </project>
