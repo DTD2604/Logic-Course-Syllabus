@@ -68,5 +68,5 @@
 
 
 ***
-### [Buổi 19](./lesson/B18/)
-#### [Ứng dụng kiến thức](./lesson/B18/)
+### [Buổi 19](./lesson/B19/)
+#### [Ứng dụng kiến thức](./lesson/B19/)
