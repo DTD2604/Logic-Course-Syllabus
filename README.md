@@ -35,6 +35,10 @@
 #### [Tham số, đối số và giá trị trả về](./lesson/B8/Task3/)
 ***
 ### [Buổi 9](./lesson/B9/)
+#### [Biến và kiểu dữ liệu](./lesson/B9/Variables%20and%20Data%20Types/)
+#### [Toán tử và câu điều kiện](./lesson/B9/Operators%20and%20conditional%20statements/)
+#### [Vòng lặp và hàm](./lesson/B9/Loops%20and%20functions/)
+
 ***
 ### [Buổi 10](./lesson/B10/)
 #### [Cơ bản về chia để trị và đệ quy](./lesson/B10/Task1/)
