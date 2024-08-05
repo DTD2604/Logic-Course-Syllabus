@@ -1,13 +1,8 @@
-### [Merge Sort]
+### [Merge Sort](/lesson/B11/Task1/)
+#### [Bài 1 về Merge Sort](/lesson/B11/Task1/bai1.java)
+#### [Bài 2 về Merge Sort](/lesson/B11/Task1/bai2.java)
 
-#### [Bài 1: Sắp xếp mảng số nguyên bằng Merge Sort] 
-####  [Bài 2: Sắp xếp mảng số thực bằng Merge Sort]
-
-### [Bubble Sort]
-
-#### [Bài 3: Sắp xếp mảng số nguyên bằng Bubble Sort]
-#### [Bài 4: Sắp xếp mảng số thực bằng Bubble Sort]
-
-
-
+### [Bubble Sort](/lesson/B11/Task1/)
+#### [Bài 1 về Bubble Sort](/lesson/B11/Task1/bai3.java)
+#### [Bài 2 về Bubble Sort](/lesson/B11/Task1/bai4.java)
 

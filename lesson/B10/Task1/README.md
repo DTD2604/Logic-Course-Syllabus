@@ -1,7 +1,5 @@
-
-Bài 1: Tính tổng các số từ 1 đến n
-Bài 2: Đảo ngược một chuỗi
-Bài 3: Tìm ước số chung lớn nhất (GCD)
-Bài 4: Giải bài toán Tháp Hà Nội
-Bài 5: Tìm tất cả các hoán vị của một chuỗi
-
+### [Bài 1: Tính tổng các số từ 1 đến n](/lesson/B10/Task1/bai1.java)
+### [Bài 2: Đảo ngược một chuỗi](/lesson/B10/Task1/bai2.java)
+### [Bài 3: Tìm ước số chung lớn nhất (GCD)](/lesson/B10/Task1/bai3.java)
+### [Bài 4: Giải bài toán Tháp Hà Nội](/lesson/B10/Task1/bai4.java)
+### [Bài 5: Tìm tất cả các hoán vị của một chuỗi](/lesson/B10/Task1/bai5.java)
