@@ -1,0 +1,5 @@
+### [Lời giải 1: Khởi tạo mảng số nguyên và in ra các phần tử]
+### [Lời giải 2: Khởi tạo mảng và tính tổng các phần tử]
+### [Lời giải 3: Tìm giá trị lớn nhất trong mảng]
+### [Lời giải 4: Đảo ngược mảng]
+### [Lời giải 5: Kiểm tra mảng đối xứng]
